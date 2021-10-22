@@ -1,6 +1,6 @@
 #include <torch/torch.h>
 #include <iostream>
-
+//
 std::tuple<torch::Tensor, torch::Tensor>  create_dummy_data(void);
 
 struct Net : torch::nn::Module{
