@@ -1,0 +1,3 @@
+/home/eren/Codes/C++/torch_examples/01_hello_torch/build/CMakeFiles/rebuild_cache.dir
+/home/eren/Codes/C++/torch_examples/01_hello_torch/build/CMakeFiles/edit_cache.dir
+/home/eren/Codes/C++/torch_examples/01_hello_torch/build/CMakeFiles/example.dir

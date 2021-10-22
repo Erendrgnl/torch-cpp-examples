@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/eren/Codes/C++/torch_examples/02_linear_regression/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /home/eren/anaconda3/envs/teknofest_yarisma/lib/python3.7/site-packages/torch/include -isystem /home/eren/anaconda3/envs/teknofest_yarisma/lib/python3.7/site-packages/torch/include/torch/csrc/api/include -isystem /usr/local/cuda-11.1/include  -g   -D_GLIBCXX_USE_CXX11_ABI=0 -std=gnu++14 -o CMakeFiles/example.dir/linear_regression.cpp.o -c /home/eren/Codes/C++/torch_examples/02_linear_regression/linear_regression.cpp",
+  "file": "/home/eren/Codes/C++/torch_examples/02_linear_regression/linear_regression.cpp"
+}
+]
