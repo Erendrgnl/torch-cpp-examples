@@ -1,3 +1,0 @@
-/home/eren/Codes/C++/torch_examples/02_linear_regression/build/CMakeFiles/rebuild_cache.dir
-/home/eren/Codes/C++/torch_examples/02_linear_regression/build/CMakeFiles/edit_cache.dir
-/home/eren/Codes/C++/torch_examples/02_linear_regression/build/CMakeFiles/example.dir
